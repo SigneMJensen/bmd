@@ -1,11 +1,10 @@
 Package: bmd
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Benchmark dose estimation for dose-response data
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Signe M.Jensen and Christian Ritz
+Maintainer: Signe M. Jensen <smj@plen.ku.dk>
+Description: Benchmark dose analysis for continuous and quantal dose-response data
+License: GPL
 Encoding: UTF-8
 LazyData: true
